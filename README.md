@@ -9,6 +9,6 @@ Answer 3) The text of the new headings is in a <a> tag , that tag defines a hype
 
 Answer 4) There are six files. three of them are gif images, one of them is a css file, css file is used to insert style to the webpage. one of them is a javascript file, that have a lot of functions for webpage. finally, the last of them is a html file called index, that is load when we open a home of a webapage.
 
-Answer 5)
+Answer 5) in my case, i don't see a XHR value in the column Type, but i investigated this. XHR are the initial letters of XML HTTP REQUEST, this is used for asynchronous updates of a web page, therefore this is loaded by the web browser in any moment.
 
 Answer 6)
