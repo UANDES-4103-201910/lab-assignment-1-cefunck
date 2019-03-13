@@ -11,4 +11,4 @@ Answer 4) There are six files. three of them are gif images, one of them is a cs
 
 Answer 5) in my case, i don't see a XHR value in the column Type, but i investigated this. XHR are the initial letters of XML HTTP REQUEST, this is used for asynchronous updates of a web page, therefore this is loaded by the web browser in any moment.
 
-Answer 6)
+Answer 6) The certificate is emitted by "COMODO RSA Domain Validation Secure Server CA." and the expiration date is 08/21/2019. 
